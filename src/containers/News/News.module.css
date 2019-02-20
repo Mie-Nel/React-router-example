@@ -1,0 +1,42 @@
+.News {
+  min-height: 100%;
+  padding-top: 50px;
+  color: #38383a;
+  background: #b1b1da;
+  border-top: 2px solid #000000;
+}
+
+.News h2 {
+  margin: 0;
+  margin-bottom: 50px;
+  padding: 0;
+}
+
+.News strong {
+  display: block;
+  margin: 0;
+  margin-bottom: 30px;
+  padding: 0;
+}
+
+.News article {
+  height: 100%;
+  width: 70%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+  padding: 20px 50px;
+  border: 1px solid #38383a;
+  border-radius: 5px;
+}
+
+.News h3 {
+  font-size: 25px;
+}
+
+.News a {
+  color: #38383a;
+}
+
+.News a:hover {
+  color: #909091;
+}
